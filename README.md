@@ -1,6 +1,3 @@
-**DEPRECIATED:** Now part of [points](https://github.com/colinmeinke/points).
-All further work will happen over there.
-
 # SVG arc to cubic bezier
 
 A function that takes an SVG arc curve as input, and maps it to

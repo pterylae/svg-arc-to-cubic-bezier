@@ -1,2 +1,4 @@
-lib/
+cjs/
+dist/
+modules/
 node_modules/
