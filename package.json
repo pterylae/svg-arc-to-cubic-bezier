@@ -97,6 +97,7 @@
     "commit": "git-cz",
     "fix": "standard --fix",
     "lint": "standard --verbose | snazzy",
+    "prepublish": "npm run tidy && npm run build",
     "semantic-release": "semantic-release",
     "tidy": "rimraf modules cjs dist",
     "travis-deploy-once": "travis-deploy-once"
