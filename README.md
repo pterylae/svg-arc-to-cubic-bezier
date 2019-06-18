@@ -4,6 +4,8 @@ A conversion from Javascript to C++ based on this project:
 
 At its heart, this project is simply a function that takes an SVG arc curve as input, and maps it to
 one or more cubic bezier curves.
+
+A Visual Studio project is included to get you up and running as quickly as possible.
 ## Usage
 Sample SVG arc: M 15 55 A 28 34 72 0 0 75 76 <br>
 and associated code snippet:
