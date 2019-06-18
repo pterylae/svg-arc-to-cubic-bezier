@@ -1,5 +1,6 @@
 # SVG arc to cubic bezier
-A conversion from Javascript to C++
+A conversion from Javascript to C++ based on this project:
+colinmeinke/svg-arc-to-cubic-bezier
 
 A function that takes an SVG arc curve as input, and maps it to
 one or more cubic bezier curves.
