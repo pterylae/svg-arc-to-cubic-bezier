@@ -1,4 +1,4 @@
-Original work Copyright(c) 2017, Colin Meinke
+Original work Copyright(c) 2017, Colin Meinke <br>
 Modified work Copyright 2019 Pterylae Systems pterylae.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
